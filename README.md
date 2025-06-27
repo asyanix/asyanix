@@ -43,6 +43,11 @@
 
 <h3 align="left">Связаться со мной:</h3>
 
-![Static Badge](https://img.shields.io/badge/telegram-3C3C3C?style=for-the-badge&logo=telegram&logoColor=26A5E4&link=https%3A%2F%2Ft.me%2Fasyanix)
-![Static Badge](https://img.shields.io/badge/gmail-3C3C3C?style=for-the-badge&logo=gmail&logoColor=EA4335&link=mailto%3Acheuzh.asiet%40gmail.com) 
+<a href="https://t.me/asyanix">
+  <img height=200 align="center" src="https://img.shields.io/badge/telegram-3C3C3C?style=for-the-badge&logo=telegram&logoColor=26A5E4&link=https%3A%2F%2Ft.me%2Fasyanix" />
+</a>
+
+<a href="mailto:cheuzh.asiet@gmail.com">
+  <img height=200 align="center" src="https://img.shields.io/badge/gmail-3C3C3C?style=for-the-badge&logo=gmail&logoColor=EA4335&link=mailto%3Acheuzh.asiet%40gmail.com" />
+</a>
 
