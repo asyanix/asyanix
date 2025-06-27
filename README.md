@@ -1,16 +1,48 @@
-## Hi there 👋
+<h1 align="center">Hello, world! Я – Ася <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="hello" width="40" height="40"/> </h1>
+<h3>Я – инженер по обеспечению качества в компании SMLab.</h3>
 
-<!--
-**asyanix/asyanix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+ <img width="600" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake"/>
+</p>
 
-Here are some ideas to get you started:
+<h4> Я студент 4 курса ФКТиПМ КубГУ. Улучшая свой скилл в тест-дизайне и мобильной разработке. Стремлюсь к улучшению своих текущих навыков и к открытию новых профессиональных горизонтов. </h4>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+<h3 align="left">Немного статистики:</h3>
+
+<a href="https://github.com/asyanix">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=asyanix&layout=compact&langs_count=8&card_width=320&theme=dark" />
+</a>
+
+<a href="https://github.com/asyanix">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=asyanix&card_width=320&theme=dark&rank_icon=github" />
+</a>
+
+</p>
+
+---
+
+<h3 align="left">Языки программирования:</h3>
+<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> <img src="https://www.r-project.org/Rlogo.png" alt="r" width="40" height="40"/> </a>  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/1024px-Bash_Logo_Colored.svg.png?20180723054350" alt="bash" width="40" height="40"/> </a>  </p>
+
+</p>
+<h3 align="left">Фреймворки + Библиотеки:</h3>
+<p align="left"> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://developer.apple.com/swiftui/" target="_blank" rel="noreferrer"> <img src="https://developer.apple.com/assets/elements/icons/swiftui/swiftui-256x256_2x.png" alt="swiftui" width="40" height="40"/> </a> <a href="https://jquery.com/" target="_blank" rel="noreferrer"> <img src="https://icon.icepanel.io/Technology/svg/jQuery.svg" alt="jquery" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://keras.io/" target="_blank" rel="noreferrer"> <img src="https://icon.icepanel.io/Technology/svg/Keras.svg" alt="keras.svg" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> <a href="https://rubyonrails.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/> </a> </a> <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a> </p>
+
+</p>
+<h3 align="left">Тестирование ПО:</h3>
+<p align="left"> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://docs.pytest.org/en/stable/" target="_blank" rel="noreferrer"> <img src="https://docs.pytest.org/en/stable/_static/pytest1.png" alt="pytest" width="40" height="40"/> </a> <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/3/cypress-icon-moigrz5nimpd7rsob0bisu.png/cypress-icon-pg9bdlubveoefqouilbg.png?_a=DATAdtAAZAA0" alt="cypress" width="40" height="40"/> </a> <a href="https://developer.chrome.com/docs/devtools?hl=ru" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/ChromeDevTools/devtools-logo/master/logos/svg/chrome-devtools-square-responsive.svg" alt="devtools" width="40" height="40"/> </a> <a href="https://www.charlesproxy.com/" target="_blank" rel="noreferrer"> <img src="https://images.icon-icons.com/3053/PNG/512/charles_proxy_macos_bigsur_icon_190302.png" alt="charlesproxy" width="40" height="40"/> </a> <a href="https://www.telerik.com/download/fiddler-everywhere" target="_blank" rel="noreferrer"> <img src="https://camo.githubusercontent.com/2ac257fee629c0771292174b654c2db14dc335051c197fa88f9bb46d0cc5cb11/68747470733a2f2f312e62702e626c6f6773706f742e636f6d2f2d7750436d426f39564148552f5836524669696177466b492f4141414141414141466c592f37437262736b35456c65344f577038464c33354842722d46723744543041394c51434c63424741735948512f733230302f466964646c65722d457665727977686572652d49636f6e2e706e67" alt="fiddler-everywhere" width="40" height="40"/> </a> <a href="https://developer.apple.com/documentation/xctest" target="_blank" rel="noreferrer"> <img src="https://developer.apple.com/assets/elements/icons/swift-testing/swift-testing-64x64_2x.png" alt="xctest" width="40" height="40"/> </a>  </p>
+
+</p>
+<h3 align="left">Технологии + ПО:</h3>
+<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://nginx.org/ru/" target="_blank" rel="noreferrer"> <img src="https://icon.icepanel.io/Technology/svg/NGINX.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://gunicorn.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/gunicorn.svg" alt="gunicorn" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer"> <img src="https://icon.icepanel.io/Technology/svg/Jira.svg" alt="jira" width="40" height="40"/> </a>  <a href="https://www.atlassian.com/software/confluence" target="_blank" rel="noreferrer"> <img src="https://icon.icepanel.io/Technology/svg/Confluence.svg" alt="confluence" width="40" height="40"/> </a> </p>
+
+</p>
+
+---
+
+<h3 align="left">Связаться со мной:</h3>
+
+![Static Badge](https://img.shields.io/badge/telegram-3C3C3C?style=for-the-badge&logo=telegram&logoColor=26A5E4&link=https%3A%2F%2Ft.me%2Fasyanix)
+![Static Badge](https://img.shields.io/badge/gmail-3C3C3C?style=for-the-badge&logo=gmail&logoColor=EA4335&link=mailto%3Acheuzh.asiet%40gmail.com) 
+
